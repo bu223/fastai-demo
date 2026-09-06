@@ -5,3 +5,4 @@ Basic walkthrough of fast ai tutorials
 - Setup
 - Pytorch
 - Git
+- SSH
